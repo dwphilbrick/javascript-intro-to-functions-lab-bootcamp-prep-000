@@ -21,12 +21,12 @@ function sayHiToGrandma(string)
  {
    return "I love you, too."
  }
-}
-
-function logShout(string) {
+logShout(string) {
   console.log() string.toUpperCase
-}
-  
-function logWhisper(string) {
+} 
+logWhisper(string) {
   console.log() string.toLowerCase
 }
+ 
+}
+
